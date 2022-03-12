@@ -1,0 +1,20 @@
+Java语言中，类成员访问权限修饰符主要有哪四种？
+== 和 equals 的区别是什么？
+final 在 java 中有什么作用？
+抽象类必须要有抽象方法吗？
+普通类和抽象类有哪些区别？
+接口和抽象类有什么区别？
+抽象类能使用 final 修饰吗？
+List、Set、Map 之间的区别是什么？
+Collection 和 Collections 有什么区别？
+哪些集合类是线程安全的？
+线程和进程的区别？
+线程有哪些状态？
+sleep() 和 wait() 有什么区别？
+创建线程有哪几种方式？
+线程的 run()和 start()有什么区别？
+notify()和 notifyAll()有什么区别？
+synchronized 和 Lock 有什么区别？
+什么是死锁？
+final、finally、finalize 有什么区别？
+常见的异常类有哪些？
